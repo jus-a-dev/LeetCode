@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-report-spam-message](https://github.com/Devn913/LeetCode/tree/master/3541-report-spam-message) |
 | [3643-zero-array-transformation-ii](https://github.com/Devn913/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Devn913/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Devn913/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Devn913/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Devn913/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Devn913/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Devn913/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -776,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-minimum-suffix-flips](https://github.com/Devn913/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [2681-put-marbles-in-bags](https://github.com/Devn913/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Devn913/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Devn913/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
